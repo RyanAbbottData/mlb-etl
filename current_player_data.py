@@ -5,7 +5,7 @@ import statsapi
 import pandas as pd
 from pandantic import Pandantic
 
-from models import DailyHittingRow, DailyPitchingRow, DailyFieldingRow
+from models.models import DailyHittingRow, DailyPitchingRow, DailyFieldingRow
 
 sys.path.append(r"C:\Users\ryana\portfolio")
 
